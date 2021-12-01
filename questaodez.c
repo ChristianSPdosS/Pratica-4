@@ -23,7 +23,7 @@ enum {jan, fev, mar, abr, maio, jun, jul, ago, set, out, nov, dez}mes;
   else if(num == out){printf("outubro\n");}
   else if(num == nov){printf("novembro\n");}
   else if(num == dez){printf("dezembro\n");}
-else{printf("mes invalido!");}
+else{printf("mes invalido!\n");}
  
  
  
